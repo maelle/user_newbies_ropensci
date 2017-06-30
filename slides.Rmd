@@ -22,7 +22,7 @@ knitr::include_graphics("images/logo.png")
 
 ## Onboarding?
 
-* Internally developped packages (Scott Chamberlain, Jeroen Ooms).
+* Internally developed packages (Scott Chamberlain, Jeroen Ooms).
 
 * Packages submitted by the community.
 
